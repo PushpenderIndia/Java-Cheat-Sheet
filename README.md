@@ -20,4 +20,4 @@ Comprehensive **Java Programming** Guide With **Mini Projects** | Best for peopl
 
 ## PDF 
 
-[](https://github.com/Technowlogy-Pushpender/Java-Cheat-Sheet/blob/master/java-cheat-sheet-comprehensive-guide.pdf)
+[Java-Cheat-Sheet](https://docs.google.com/viewer?url=https://github.com/Technowlogy-Pushpender/Java-Cheat-Sheet/blob/master/java-cheat-sheet-comprehensive-guide.pdf)
